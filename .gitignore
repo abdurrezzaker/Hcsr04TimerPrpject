@@ -1,0 +1,22 @@
+Debug/
+.settings
+
+
+#Derleme dosyaları 
+*.o
+*.d
+*.du
+
+#otomatik oluşturulan dosyalar
+
+*.bin
+*.elf
+*.hex
+*.map
+*.srec
+
+
+#derleme dosyaları
+build/
+
+
